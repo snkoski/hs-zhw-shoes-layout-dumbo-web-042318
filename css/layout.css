@@ -24,4 +24,7 @@
 
 /* Posititoning Classes */
 
+#social {
+  position: fixed;
+}
 
