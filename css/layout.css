@@ -30,12 +30,20 @@
 
 .col-1 {
   float: left;
+  width: 32%;
+  backgroound: #ccc;
 }
 
 .col-2 {
   float: left;
+  width: 66%;
+  backgroound: #ccc;
 }
 
 .col-3 {
-  
+  backgroound: #ccc;
+}
+
+[class*="col-"] {
+  margin-left: 2%;
 }
